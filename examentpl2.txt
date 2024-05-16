@@ -1,1 +1,1 @@
- master branch est de la branche de code principale
+ une partie de code source est sur la branche master
